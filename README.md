@@ -81,9 +81,21 @@ A collection of responsive landing pages built with HTML, CSS, and JavaScript, f
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=MelvinnS&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MelvinnS&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelvinnS&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelvinnS&layout=compact&theme=transparent&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=MelvinnS&theme=transparent&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MelvinnS&theme=github-compact&hide_border=true"/>
 
 </p>
 
