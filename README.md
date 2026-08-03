@@ -25,7 +25,7 @@ Besides software development, I also explore photography, filmmaking, videograph
 ## 🌐 Personal Portfolio
 
 <p align="center">
-  <img src="./assets/portofolio.png" width="700"/>
+  <img src="./assets/portofolio.png" width="400"/>
 </p>
 
 A modern portfolio website showcasing my software development journey, featured projects, certifications, and creative works.
@@ -41,7 +41,7 @@ A modern portfolio website showcasing my software development journey, featured 
 ## ♻️ TrashBack
 
 <p align="center">
-  <img src="./assets/trashback.png" width="700"/>
+  <img src="./assets/trashback.png" width="400"/>
 </p>
 
 A Flutter-based mobile application designed to encourage sustainable waste management through a digital reward system with a modern and intuitive user experience.
@@ -54,7 +54,7 @@ A Flutter-based mobile application designed to encourage sustainable waste manag
 ## 💧 PDAM Mobile App
 
 <p align="center">
-    <img src="./assets/PDAM.png" width="700"/>
+    <img src="./assets/PDAM.png" width="400"/>
 </p>
 
 A customer service mobile application focused on delivering a simple, clean, and user-friendly experience for water utility services.
@@ -67,7 +67,7 @@ A customer service mobile application focused on delivering a simple, clean, and
 ## 🚀 Landing Page Collection
 
 <p align="center">
-  <img src="./assets/landingpage.png" width="700"/>
+  <img src="./assets/landingpage.png" width="400"/>
 </p>
 
 A collection of responsive landing pages built with HTML, CSS, and JavaScript, focusing on performance, animations, and modern UI implementation.
