@@ -1,107 +1,162 @@
 <p align="center">
-  <img src="assets/banner.png" width="100%">
+<img src="assets/banner.png" width="100%">
 </p>
 
-<h1 align="center">Melvin</h1>
-<p align="center">Frontend Developer · Flutter Developer · UI/UX Designer</p>
+# Hi, I'm Melvin 👋
+
+### Frontend Developer • Flutter Developer • UI/UX Designer
+
+I enjoy building modern websites and mobile applications by combining frontend development, Flutter, and user-centered design into meaningful digital experiences.
+
+---
+
+# 🚀 About Me
+
+I'm a Software Engineering student from Indonesia with a strong interest in Frontend Development, Flutter Development, and UI/UX Design.
+
+I enjoy transforming ideas into real digital products—from designing interfaces in Figma to developing responsive websites and cross-platform mobile applications.
+
+Besides software development, I also explore photography, filmmaking, videography, and visual storytelling. These creative experiences help me design products that are not only functional, but also engaging and enjoyable to use.
+
+---
+
+# 💼 Featured Projects
+
+## 🌐 Personal Portfolio
 
 <p align="center">
-  <a href="https://project-portofolio-ten-rosy.vercel.app/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/melvinandrea/">LinkedIn</a> ·
-  <a href="mailto:fallskie25@gmail.com">Email</a>
+  <img src="./assets/portofolio.png" width="700"/>
 </p>
 
-<br>
+A modern portfolio website showcasing my software development journey, featured projects, certifications, and creative works.
 
-Software Engineering student from Indonesia, building modern websites and mobile applications at the intersection of frontend development, Flutter, and user-centered design. I work across the full product cycle — from interface design in Figma to shipping responsive web and cross-platform mobile apps.
+**🌍 Live Website**
+> https://project-portofolio-ten-rosy.vercel.app/
 
-Outside of code, I explore photography, filmmaking, and visual storytelling — experiences that shape how I think about designing products that feel considered, not just functional.
+**📂 Repository**
+> https://github.com/MelvinnS/PROJECT---Portofolio
 
-<br>
+---
 
-## Featured Projects
+## ♻️ TrashBack
 
-**Personal Portfolio**
-A portfolio site showcasing my development journey, projects, certifications, and creative work.
-
-<p align="left">
-  <img src="./assets/portofolio.png" width="600"/>
+<p align="center">
+  <img src="./assets/trashback.png" width="700"/>
 </p>
 
-[Live site](https://project-portofolio-ten-rosy.vercel.app/) · [Repository](https://github.com/MelvinnS/PROJECT---Portofolio)
+A Flutter-based mobile application designed to encourage sustainable waste management through a digital reward system with a modern and intuitive user experience.
 
-<br>
+**📂 Repository**
+> https://github.com/MelvinnS/PROJECT---Trashback
 
-**TrashBack**
-A Flutter mobile app promoting sustainable waste management through a digital reward system.
+---
 
-<p align="left">
-  <img src="./assets/trashback.png" width="600"/>
+## 💧 PDAM Mobile App
+
+<p align="center">
+    <img src="./assets/PDAM.png" width="700"/>
 </p>
 
-[Repository](https://github.com/MelvinnS/PROJECT---Trashback)
+A customer service mobile application focused on delivering a simple, clean, and user-friendly experience for water utility services.
 
-<br>
+**📂 Repository**
+> https://github.com/MelvinnS/PROJECT-PDAM
 
-**PDAM Mobile App**
-A customer service app for a water utility provider, focused on simplicity and ease of use.
+---
 
-<p align="left">
-  <img src="./assets/PDAM.png" width="600"/>
+## 🚀 Landing Page Collection
+
+<p align="center">
+  <img src="./assets/landingpage.png" width="700"/>
 </p>
 
-[Repository](https://github.com/MelvinnS/PROJECT-PDAM)
+A collection of responsive landing pages built with HTML, CSS, and JavaScript, focusing on performance, animations, and modern UI implementation.
 
-<br>
+**📂 Repository**
+> https://github.com/MelvinnS/PROJECT---Landing-Page-Orastrix
 
-**Landing Page Collection**
-Responsive landing pages built with HTML, CSS, and JavaScript, with an emphasis on performance and animation.
+---
 
-<p align="left">
-  <img src="./assets/landingpage.png" width="600"/>
-</p>
+# 💻 Tech Stack
 
-[Repository](https://github.com/MelvinnS/PROJECT---Landing-Page-Orastrix)
+### Languages
 
-<br>
+- HTML
+- CSS
+- JavaScript
+- Dart
 
-## Tech Stack
+### Frameworks
 
-| Category    | Stack                                                                 |
-|-------------|------------------------------------------------------------------------|
-| Languages   | HTML, CSS, JavaScript, Dart                                            |
-| Frameworks  | Flutter                                                                 |
-| UI / UX     | Figma, Wireframing, Prototyping, Interface & Experience Design         |
-| Tools       | Git, GitHub, VS Code, Android Studio                                   |
+- Flutter
 
-<br>
+### UI / UX
 
-## Creative Work
+- Figma
+- Wireframing
+- Prototyping
+- User Interface Design
+- User Experience Design
 
-Photography, videography, film production, video editing, and graphic design — practiced alongside development as part of the same design instinct.
+### Tools
 
-<br>
+- Git
+- GitHub
+- Visual Studio Code
+- Android Studio
 
-## Currently Learning
+---
 
-Flutter development · Frontend development · UI/UX design · Responsive web development · Software engineering best practices
+# 🎬 Creative Side
 
-<br>
+Beyond software development, I also enjoy creating visual stories through:
 
-## 2026 Goals
+- 📸 Photography
+- 🎥 Videography
+- 🎬 Film Production
+- ✂️ Video Editing
+- 🎨 Graphic Design
 
-- Ship more real-world Flutter applications
-- Build frontend projects with stronger UI/UX foundations
-- Expand my portfolio with production-quality work
-- Deepen my UX design practice
-- Contribute to open-source and collaborative projects
+I believe creativity and technology complement each other in building products that are functional, visually engaging, and enjoyable for users.
 
-<br>
+---
 
-## Get in Touch
+# 📚 Currently Learning
 
-[Portfolio](https://project-portofolio-ten-rosy.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/melvinandrea/) · [Email](mailto:fallskie25@gmail.com)
+I'm currently focusing on improving my skills in:
 
-<br>
+- Flutter Development
+- Frontend Development
+- UI/UX Design
+- Responsive Web Development
+- Software Engineering Best Practices
 
-<p align="center"><i>I enjoy turning ideas into digital products that are simple, functional, and enjoyable to use.</i></p>
+---
+
+# 🎯 2026 Goals
+
+- Build more real-world Flutter applications
+- Create modern frontend projects with better UI/UX
+- Expand my software development portfolio
+- Continue learning User Experience Design
+- Contribute to more open-source and collaborative projects
+
+---
+
+# 📫 Let's Connect
+
+🌐 Portfolio
+
+https://project-portofolio-ten-rosy.vercel.app/
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/melvinandrea/
+
+📧 Email
+
+mailto:fallskie25@gmail.com
+
+---
+
+> *"I enjoy turning ideas into digital products that are simple, functional, and enjoyable to use."*
