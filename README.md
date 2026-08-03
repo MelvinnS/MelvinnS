@@ -24,40 +24,55 @@ Besides software development, I also explore photography, filmmaking, videograph
 
 ## 🌐 Personal Portfolio
 
+<p align="center">
+  <img src="./assets/portfolio.png" width="700"/>
+</p>
+
 A modern portfolio website showcasing my software development journey, featured projects, certifications, and creative works.
 
-**Live Website**
+**🌍 Live Website**
 > https://project-portofolio-ten-rosy.vercel.app/
 
-
-**Repository**
+**📂 Repository**
 > https://github.com/MelvinnS/PROJECT---Portofolio
 
 ---
 
 ## ♻️ TrashBack
 
+<p align="center">
+  <img src="./assets/trashback.png" width="700"/>
+</p>
+
 A Flutter-based mobile application designed to encourage sustainable waste management through a digital reward system with a modern and intuitive user experience.
 
-**Repository**
+**📂 Repository**
 > https://github.com/MelvinnS/PROJECT---Trashback
 
 ---
 
 ## 💧 PDAM Mobile App
 
+<p align="center">
+    <img src="./assets/PDAM.png" width="700"/>
+</p>
+
 A customer service mobile application focused on delivering a simple, clean, and user-friendly experience for water utility services.
 
-**Repository**
+**📂 Repository**
 > https://github.com/MelvinnS/PROJECT-PDAM
 
 ---
 
 ## 🚀 Landing Page Collection
 
+<p align="center">
+  <img src="./assets/landingpage.png" width="700"/>
+</p>
+
 A collection of responsive landing pages built with HTML, CSS, and JavaScript, focusing on performance, animations, and modern UI implementation.
 
-**Repository**
+**📂 Repository**
 > https://github.com/MelvinnS/PROJECT---Landing-Page-Orastrix
 
 ---
