@@ -99,6 +99,28 @@ A collection of responsive landing pages built with HTML, CSS, and JavaScript, f
 
 </p>
 
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/MelvinnS/MelvinnS/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=MelvinnS&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=MelvinnS&theme=flat&no-frame=true&row=1&column=6"/>
+
+</p>
+
 ---
 
 # 💻 Tech Stack
