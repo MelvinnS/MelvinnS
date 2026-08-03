@@ -25,7 +25,7 @@ Besides software development, I also explore photography, filmmaking, videograph
 ## 🌐 Personal Portfolio
 
 <p align="center">
-  <img src="./assets/portfolio.png" width="700"/>
+  <img src="./assets/portofolio.png" width="700"/>
 </p>
 
 A modern portfolio website showcasing my software development journey, featured projects, certifications, and creative works.
