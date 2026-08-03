@@ -27,10 +27,7 @@ Besides software development, I also explore photography, filmmaking, videograph
 A modern portfolio website showcasing my software development journey, featured projects, certifications, and creative works.
 
 **Live Website**
-> 
-> <a href="[LINK_REPOSITORY](https://project-portofolio-ten-rosy.vercel.app/)">
-<img src="assets/portofolio.png">
-</a>
+> https://project-portofolio-ten-rosy.vercel.app/
 
 
 **Repository**
