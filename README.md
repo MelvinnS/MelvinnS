@@ -2,161 +2,123 @@
 <img src="assets/banner.png" width="100%">
 </p>
 
-# Hi, I'm Melvin 👋
+# Halo, saya Melvin 👋
+### Frontend Developer • Flutter Developer • UI/UX Enthusiast
 
-### Frontend Developer • Flutter Developer • UI/UX Designer
-
-I enjoy building modern websites and mobile applications by combining frontend development, Flutter, and user-centered design into meaningful digital experiences.
-
----
-
-# 🚀 About Me
-
-I'm a Software Engineering student from Indonesia with a strong interest in Frontend Development, Flutter Development, and UI/UX Design.
-
-I enjoy transforming ideas into real digital products—from designing interfaces in Figma to developing responsive websites and cross-platform mobile applications.
-
-Besides software development, I also explore photography, filmmaking, videography, and visual storytelling. These creative experiences help me design products that are not only functional, but also engaging and enjoyable to use.
+Siswa SMK jurusan Rekayasa Perangkat Lunak yang suka bikin website dan aplikasi mobile. Selain ngoding, saya juga senang mendesain tampilan yang enak dilihat dan gampang dipakai orang lain.
 
 ---
 
-# 💼 Featured Projects
+## 🚀 Tentang Saya
 
-## 🌐 Personal Portfolio
+Saya masih belajar di SMK, ngambil jurusan Software Engineering. Fokus saya sekarang ada di Frontend Development, Flutter, sama UI/UX Design.
 
-<p align="center">
-  <img src="./assets/portofolio.png" width="400"/>
-</p>
+Awalnya cuma iseng bikin landing page sederhana, lama-lama jadi keterusan sampai sekarang udah beberapa project yang bisa saya pamerkan di bawah. Selain itu saya juga suka corat-coret desain di Figma sebelum jadi kode beneran, biar hasil akhirnya nggak asal jadi.
 
-A modern portfolio website showcasing my software development journey, featured projects, certifications, and creative works.
-
-**🌍 Live Website**
-> https://melvinportofoliov2.vercel.app/
-
-**📂 Repository**
-> https://github.com/MelvinnS/PROJECT---Portofolio
+Di luar dunia coding, saya juga suka foto-foto, bikin video, sama urusan visual lainnya. Lumayan buat nambah "rasa" di project yang saya bikin, jadi nggak cuma jalan doang tapi juga enak dilihat.
 
 ---
 
-## ♻️ TrashBack
+## 💼 Project
 
-<p align="center">
-  <img src="./assets/trashback.png" width="400"/>
-</p>
+### 🍱 DK Cattering
+Website pemesanan catering, dibuat buat mempermudah pelanggan lihat menu dan order tanpa ribet.
 
-A Flutter-based mobile application designed to encourage sustainable waste management through a digital reward system with a modern and intuitive user experience.
+- Live: https://cattering-nine.vercel.app
+- Repo: https://github.com/MelvinnS/PROJECT---DK-Cattering
 
-**📂 Repository**
-> https://github.com/MelvinnS/PROJECT---Trashback
+### 🍽️ RestoFinder
+Web untuk cari rekomendasi restoran, dibuat pakai React sebagai bagian dari technical test frontend developer.
 
----
+- Live: https://techtest-restofinder.vercel.app/
+- Repo: https://github.com/MelvinnS/FrontendDevReactjs-Melvin-Andrea-Ismiananta
 
-## 💧 PDAM Mobile App
+### 📚 Website Perpustakaan
+Sistem sederhana untuk manajemen perpustakaan (peminjaman & pengembalian buku).
 
-<p align="center">
-    <img src="./assets/PDAM.png" width="400"/>
-</p>
+- Live & Repo: *menyusul, masih dalam proses*
 
-A customer service mobile application focused on delivering a simple, clean, and user-friendly experience for water utility services.
+### 💌 Template for GF
+Template website kado digital, awalnya iseng bikin buat pacar sendiri, sekarang dijual juga sebagai template.
 
-**📂 Repository**
-> https://github.com/MelvinnS/PROJECT-PDAM
+- Live: https://template-4gf.vercel.app/
+- Repo: https://github.com/MelvinnS/FORSALE---Template-for-gf
 
----
+### 🌐 Portfolio Pribadi
+Website portfolio berisi perjalanan saya belajar software development, project, sertifikat, dan karya kreatif lainnya.
 
-## 🚀 Landing Page Collection
+- Live: https://melvinportofoliov2.vercel.app/
+- Repo: https://github.com/MelvinnS/PROJECT---Portofolio
 
-<p align="center">
-  <img src="./assets/landingpage.png" width="400"/>
-</p>
+### ♻️ TrashBack
+Aplikasi Flutter untuk mendorong kebiasaan buang sampah yang lebih bertanggung jawab, dilengkapi sistem reward.
 
-A collection of responsive landing pages built with HTML, CSS, and JavaScript, focusing on performance, animations, and modern UI implementation.
+- Repo: https://github.com/MelvinnS/PROJECT---Trashback
 
-**📂 Repository**
-> https://github.com/MelvinnS/PROJECT---Landing-Page-Orastrix
+### 💧 PDAM Mobile App
+Aplikasi mobile untuk layanan pelanggan PDAM, dibuat dengan tampilan yang simpel dan gampang dipahami.
 
----
+- Repo: https://github.com/MelvinnS/PROJECT-PDAM
 
-# 💻 Tech Stack
+### 🚀 Landing Page Collection
+Kumpulan landing page yang saya bikin pakai HTML, CSS, dan JavaScript, buat latihan animasi dan implementasi UI.
 
-### Languages
-
-- HTML
-- CSS
-- JavaScript
-- Dart
-
-### Frameworks
-
-- Flutter
-
-### UI / UX
-
-- Figma
-- Wireframing
-- Prototyping
-- User Interface Design
-- User Experience Design
-
-### Tools
-
-- Git
-- GitHub
-- Visual Studio Code
-- Android Studio
+- Repo: https://github.com/MelvinnS/PROJECT---Landing-Page-Orastrix
 
 ---
 
-# 🎬 Creative Side
+## 💻 Tech Stack
 
-Beyond software development, I also enjoy creating visual stories through:
+**Bahasa**
+`HTML` `CSS` `JavaScript` `Dart`
 
-- 📸 Photography
-- 🎥 Videography
-- 🎬 Film Production
-- ✂️ Video Editing
-- 🎨 Graphic Design
+**Framework**
+`Flutter`
 
-I believe creativity and technology complement each other in building products that are functional, visually engaging, and enjoyable for users.
+**Design**
+`Figma` — wireframing, prototyping, UI/UX design
+
+**Tools**
+`Git` `GitHub` `VS Code` `Android Studio`
 
 ---
 
-# 📚 Currently Learning
+## 🎬 Selain Ngoding
 
-I'm currently focusing on improving my skills in:
+Kadang saya juga:
+- 📸 Foto-foto
+- 🎥 Bikin video / konten
+- 🎬 Editing video
+- 🎨 Desain grafis
 
-- Flutter Development
-- Frontend Development
+Menurut saya hal-hal ini saling bantu — belajar visual bikin saya lebih peka soal desain waktu ngoding, dan sebaliknya.
+
+---
+
+## 📚 Lagi Belajar
+
+- Flutter (lebih dalam lagi)
+- React
 - UI/UX Design
 - Responsive Web Development
-- Software Engineering Best Practices
 
 ---
 
-# 🎯 2026 Goals
+## 🎯 Target 2026
 
-- Build more real-world Flutter applications
-- Create modern frontend projects with better UI/UX
-- Expand my software development portfolio
-- Continue learning User Experience Design
-- Contribute to more open-source and collaborative projects
-
----
-
-# 📫 Let's Connect
-
-🌐 Portfolio
-
-https://project-portofolio-ten-rosy.vercel.app/
-
-💼 LinkedIn
-
-https://www.linkedin.com/in/melvinandrea/
-
-📧 Email
-
-mailto:fallskie25@gmail.com
+- Bikin lebih banyak aplikasi Flutter yang bener-bener dipakai orang
+- Perkuat portofolio frontend dengan project yang lebih kompleks
+- Terus belajar UI/UX
+- Coba ikut kontribusi open-source
 
 ---
 
-> *"I enjoy turning ideas into digital products that are simple, functional, and enjoyable to use."*
+## 📫 Kontak
+
+- 🌐 Portfolio: [melvinportofoliov2.vercel.app](https://melvinportofoliov2.vercel.app/)
+- 💼 LinkedIn: [linkedin.com/in/melvinandrea](https://www.linkedin.com/in/melvinandrea/)
+- 📧 Email: fallskie25@gmail.com
+
+---
+
+> Masih siswa SMK, masih belajar, tapi tetap jalan pelan-pelan bikin project yang bisa dipakai.
