@@ -21,13 +21,13 @@ Outside of development work, I also have an interest in photography, videography
 
 **DK Cattering**
 Catering ordering website allowing customers to browse menus and place orders online.
-Live: https://cattering-nine.vercel.app
-Repository: https://github.com/MelvinnS/PROJECT---DK-Cattering
+- Live: https://cattering-nine.vercel.app
+- Repository: https://github.com/MelvinnS/PROJECT---DK-Cattering
 
 **RestoFinder**
 Restaurant discovery web application built with React.js as part of a frontend developer technical assessment.
-Live: https://techtest-restofinder.vercel.app/
-Repository: https://github.com/MelvinnS/FrontendDevReactjs-Melvin-Andrea-Ismiananta
+- Live: https://techtest-restofinder.vercel.app/
+- Repository: https://github.com/MelvinnS/FrontendDevReactjs-Melvin-Andrea-Ismiananta
 
 **Library Management Website**
 A web-based system for managing book borrowing and returns.
@@ -35,25 +35,25 @@ Live and repository links coming soon.
 
 **Template for GF**
 A digital gift website template, originally built as a personal project and later released as a reusable template.
-Live: https://template-4gf.vercel.app/
-Repository: https://github.com/MelvinnS/FORSALE---Template-for-gf
+- Live: https://template-4gf.vercel.app/
+- Repository: https://github.com/MelvinnS/FORSALE---Template-for-gf
 
 **Personal Portfolio**
 Portfolio website showcasing my development journey, projects, certifications, and creative work.
-Live: https://melvinportofoliov2.vercel.app/
-Repository: https://github.com/MelvinnS/PROJECT---Portofolio
+- Live: https://melvinportofoliov2.vercel.app/
+- Repository: https://github.com/MelvinnS/PROJECT---Portofolio
 
 **TrashBack**
 A Flutter mobile application that promotes responsible waste disposal through a digital reward system.
-Repository: https://github.com/MelvinnS/PROJECT---Trashback
+- Repository: https://github.com/MelvinnS/PROJECT---Trashback
 
 **PDAM Mobile App**
 A customer service mobile application for a water utility provider, focused on simplicity and usability.
-Repository: https://github.com/MelvinnS/PROJECT-PDAM
+- Repository: https://github.com/MelvinnS/PROJECT-PDAM
 
 **Landing Page Collection**
 A set of responsive landing pages built with HTML, CSS, and JavaScript, focused on performance and modern UI implementation.
-Repository: https://github.com/MelvinnS/PROJECT---Landing-Page-Orastrix
+- Repository: https://github.com/MelvinnS/PROJECT---Landing-Page-Orastrix
 
 ---
 
