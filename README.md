@@ -2,123 +2,97 @@
 <img src="assets/banner.png" width="100%">
 </p>
 
-# Halo, saya Melvin 👋
-### Frontend Developer • Flutter Developer • UI/UX Enthusiast
+# Melvin Andrea Ismiananta
+### Frontend Developer | Flutter Developer | UI/UX Designer
 
-Siswa SMK jurusan Rekayasa Perangkat Lunak yang suka bikin website dan aplikasi mobile. Selain ngoding, saya juga senang mendesain tampilan yang enak dilihat dan gampang dipakai orang lain.
-
----
-
-## 🚀 Tentang Saya
-
-Saya masih belajar di SMK, ngambil jurusan Software Engineering. Fokus saya sekarang ada di Frontend Development, Flutter, sama UI/UX Design.
-
-Awalnya cuma iseng bikin landing page sederhana, lama-lama jadi keterusan sampai sekarang udah beberapa project yang bisa saya pamerkan di bawah. Selain itu saya juga suka corat-coret desain di Figma sebelum jadi kode beneran, biar hasil akhirnya nggak asal jadi.
-
-Di luar dunia coding, saya juga suka foto-foto, bikin video, sama urusan visual lainnya. Lumayan buat nambah "rasa" di project yang saya bikin, jadi nggak cuma jalan doang tapi juga enak dilihat.
+Software Engineering student focused on building responsive websites and cross-platform mobile applications, with a strong interest in interface design and user experience.
 
 ---
 
-## 💼 Project
+## About
 
-### 🍱 DK Cattering
-Website pemesanan catering, dibuat buat mempermudah pelanggan lihat menu dan order tanpa ribet.
+I'm a Software Engineering student based in Indonesia, currently developing my skills in frontend web development, Flutter, and UI/UX design. I enjoy the full process of building a product — starting from designing interfaces in Figma, then translating that design into a working website or mobile application.
 
-- Live: https://cattering-nine.vercel.app
-- Repo: https://github.com/MelvinnS/PROJECT---DK-Cattering
-
-### 🍽️ RestoFinder
-Web untuk cari rekomendasi restoran, dibuat pakai React sebagai bagian dari technical test frontend developer.
-
-- Live: https://techtest-restofinder.vercel.app/
-- Repo: https://github.com/MelvinnS/FrontendDevReactjs-Melvin-Andrea-Ismiananta
-
-### 📚 Website Perpustakaan
-Sistem sederhana untuk manajemen perpustakaan (peminjaman & pengembalian buku).
-
-- Live & Repo: *menyusul, masih dalam proses*
-
-### 💌 Template for GF
-Template website kado digital, awalnya iseng bikin buat pacar sendiri, sekarang dijual juga sebagai template.
-
-- Live: https://template-4gf.vercel.app/
-- Repo: https://github.com/MelvinnS/FORSALE---Template-for-gf
-
-### 🌐 Portfolio Pribadi
-Website portfolio berisi perjalanan saya belajar software development, project, sertifikat, dan karya kreatif lainnya.
-
-- Live: https://melvinportofoliov2.vercel.app/
-- Repo: https://github.com/MelvinnS/PROJECT---Portofolio
-
-### ♻️ TrashBack
-Aplikasi Flutter untuk mendorong kebiasaan buang sampah yang lebih bertanggung jawab, dilengkapi sistem reward.
-
-- Repo: https://github.com/MelvinnS/PROJECT---Trashback
-
-### 💧 PDAM Mobile App
-Aplikasi mobile untuk layanan pelanggan PDAM, dibuat dengan tampilan yang simpel dan gampang dipahami.
-
-- Repo: https://github.com/MelvinnS/PROJECT-PDAM
-
-### 🚀 Landing Page Collection
-Kumpulan landing page yang saya bikin pakai HTML, CSS, dan JavaScript, buat latihan animasi dan implementasi UI.
-
-- Repo: https://github.com/MelvinnS/PROJECT---Landing-Page-Orastrix
+Outside of development work, I also have an interest in photography, videography, and visual content creation, which influences how I approach design and user experience in my projects.
 
 ---
 
-## 💻 Tech Stack
+## Projects
 
-**Bahasa**
-`HTML` `CSS` `JavaScript` `Dart`
+**DK Cattering**
+Catering ordering website allowing customers to browse menus and place orders online.
+Live: https://cattering-nine.vercel.app
+Repository: https://github.com/MelvinnS/PROJECT---DK-Cattering
 
-**Framework**
-`Flutter`
+**RestoFinder**
+Restaurant discovery web application built with React.js as part of a frontend developer technical assessment.
+Live: https://techtest-restofinder.vercel.app/
+Repository: https://github.com/MelvinnS/FrontendDevReactjs-Melvin-Andrea-Ismiananta
+
+**Library Management Website**
+A web-based system for managing book borrowing and returns.
+Live and repository links coming soon.
+
+**Template for GF**
+A digital gift website template, originally built as a personal project and later released as a reusable template.
+Live: https://template-4gf.vercel.app/
+Repository: https://github.com/MelvinnS/FORSALE---Template-for-gf
+
+**Personal Portfolio**
+Portfolio website showcasing my development journey, projects, certifications, and creative work.
+Live: https://melvinportofoliov2.vercel.app/
+Repository: https://github.com/MelvinnS/PROJECT---Portofolio
+
+**TrashBack**
+A Flutter mobile application that promotes responsible waste disposal through a digital reward system.
+Repository: https://github.com/MelvinnS/PROJECT---Trashback
+
+**PDAM Mobile App**
+A customer service mobile application for a water utility provider, focused on simplicity and usability.
+Repository: https://github.com/MelvinnS/PROJECT-PDAM
+
+**Landing Page Collection**
+A set of responsive landing pages built with HTML, CSS, and JavaScript, focused on performance and modern UI implementation.
+Repository: https://github.com/MelvinnS/PROJECT---Landing-Page-Orastrix
+
+---
+
+## Tech Stack
+
+**Languages**
+HTML, CSS, JavaScript, Dart
+
+**Frameworks & Libraries**
+React.js, Flutter
 
 **Design**
-`Figma` — wireframing, prototyping, UI/UX design
+Figma, Wireframing, Prototyping, UI/UX Design
 
-**Tools**
-`Git` `GitHub` `VS Code` `Android Studio`
-
----
-
-## 🎬 Selain Ngoding
-
-Kadang saya juga:
-- 📸 Foto-foto
-- 🎥 Bikin video / konten
-- 🎬 Editing video
-- 🎨 Desain grafis
-
-Menurut saya hal-hal ini saling bantu — belajar visual bikin saya lebih peka soal desain waktu ngoding, dan sebaliknya.
+**Tools & Platforms**
+Git, GitHub, Vercel, Visual Studio Code, Android Studio
 
 ---
 
-## 📚 Lagi Belajar
+## Currently Learning
 
-- Flutter (lebih dalam lagi)
-- React
-- UI/UX Design
-- Responsive Web Development
-
----
-
-## 🎯 Target 2026
-
-- Bikin lebih banyak aplikasi Flutter yang bener-bener dipakai orang
-- Perkuat portofolio frontend dengan project yang lebih kompleks
-- Terus belajar UI/UX
-- Coba ikut kontribusi open-source
+- Flutter development
+- React.js
+- UI/UX design
+- Responsive web development
 
 ---
 
-## 📫 Kontak
+## 2026 Goals
 
-- 🌐 Portfolio: [melvinportofoliov2.vercel.app](https://melvinportofoliov2.vercel.app/)
-- 💼 LinkedIn: [linkedin.com/in/melvinandrea](https://www.linkedin.com/in/melvinandrea/)
-- 📧 Email: fallskie25@gmail.com
+- Build more real-world Flutter applications
+- Strengthen frontend portfolio with more complex projects
+- Continue improving UI/UX design skills
+- Contribute to open-source projects
 
 ---
 
-> Masih siswa SMK, masih belajar, tapi tetap jalan pelan-pelan bikin project yang bisa dipakai.
+## Contact
+
+Portfolio: https://melvinportofoliov2.vercel.app/
+LinkedIn: https://www.linkedin.com/in/melvinandrea/
+Email: fallskie25@gmail.com
